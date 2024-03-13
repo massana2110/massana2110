@@ -1,8 +1,8 @@
 ### <div align="center">Hi there 👋 I'm David Massana, Web and Android Developer 👨‍💻</div>  
   
-- 🔭 I’m currently working at Farmacias San Nicolas as Software Developer  
+- 🔭 I’m currently working at Difactori as Android Developer  
   
-- 🌱 I’m currently learning Flutter and Clean Architecture for my projects  
+- 🌱 I’m currently learning Jetpack Compose and Clean Architecture for my projects  
   
 - 🎯I'm always trying to be better in all aspects of my life.  
   
