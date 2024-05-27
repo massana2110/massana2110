@@ -2,7 +2,7 @@
   
 - 🔭 I’m currently working at Difactori as Android Developer  
   
-- 🌱 I’m currently learning Jetpack Compose and Clean Architecture for my projects  
+- 🌱 I’m currently learning Jetpack Compose, clean architecture and Kotlin Multiplatform 
   
 - 🎯I'm always trying to be better in all aspects of my life.  
   
